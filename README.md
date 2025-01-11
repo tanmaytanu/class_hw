@@ -1,2 +1,1 @@
-# class_hw
-dept course
+https://tanmaytanu.github.io/class_hw/
